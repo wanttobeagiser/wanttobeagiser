@@ -12,6 +12,6 @@ Welcome to my GitHub profile, I'm ZebSun! As a highly motivated and disciplined 
 </p>
 <img src="./assets/mario.gif" alt="banner">
 
-[![ZebSun's GitHub | Languages Over Time](https://stats.quira.sh/ZebSun/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=ZebSun)
 
 
+<!-- [![ZebSun's GitHub | Languages Over Time](https://stats.quira.sh/ZebSun/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=ZebSun) -->
